@@ -88,13 +88,13 @@ export default function Contact() {
                 </svg>
                 +216 99 274 539
               </a>
-              <a href="https://linkedin.com/in/mahdibenali" target="_blank" rel="noopener noreferrer" className="contact-link">
+              <a href="https://www.linkedin.com/in/mahdi-ben-ali/" target="_blank" rel="noopener noreferrer" className="contact-link">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2">
                   <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z" />
                   <rect x="2" y="9" width="4" height="12" />
                   <circle cx="4" cy="4" r="2" />
                 </svg>
-                linkedin.com/in/mahdibenali
+                www.linkedin.com/in/mahdi-ben-ali/
               </a>
               <a href="https://github.com/mahdibenali" target="_blank" rel="noopener noreferrer" className="contact-link">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2">
